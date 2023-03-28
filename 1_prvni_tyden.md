@@ -1,3 +1,5 @@
+# Cenové šoky, malé Edo a zemětřesení
+
 Koupit letenku, zabalit kufry a na půl roku pápá do Japonska. No, tak jednoduché to nebylo, ale koho to zajímá. Už tu jsem a píšu své první dojmy po první týdnu v nejlidnatějším městě na světě, Tokiu.
 
 I když, ono ty první dojmy nejsou úplně první. V Japonsku jsem už dvakrát byla, tak jsem trochu tušila, co mě čeká. Je ale něco jiného tu být úplně sama a ještě navíc na dlouhou dobu.
@@ -8,9 +10,18 @@ Doprava v Tokiu je drahá. Jakože, fakt drahá. Problém je, že tu pořádně 
 
 Co člověka (respektive Evropana) může naopak potěšit, je celkem cenově dostupné jídlo. V Japonsku kdejaké konbini (rozuměj sámoška) prodává obento (obědové boxy), polévky co se jen dají do mikrovlnky, nudle, kari, a jiné polotovary, které se ale nevyrovnají těm u nás - tady tyto svačinko-obědovo-večeřové věci prostě frčí. 
 
-Každopádně, pomalu prozkoumávám Tokio i jeho okolí. Za zmínku určitě stojí půldenní výlet do Kawagoe, kterému se říká "malé Edo". Edo bylo dříve název Tokia, Kawagoe má tedy nádech staršího Japonska. 
+Každopádně, pomalu prozkoumávám Tokio i jeho okolí. Za zmínku určitě stojí půldenní výlet do **Kawagoe**, kterému se říká "malé Edo". **Edo** bylo dříve název Tokia, Kawagoe má tedy nádech staršího Japonska. 
 
 
-* dodat fotky *
+![Branching](kawagoe.jpeg)
+![Branching](kawagoe_childer_day.jpeg)
+
+V jedné z místních svatyň, **Hikawa svatyně**, jsem provedla rituál s názvem _hitogata nagashi_, jehož účelem je očistit své prohřesky. Třikrát se foukne na washi papír tvaru lidské postavičky _hitogata_, dále se s ní člověk symbolicky otře a se zaříkáváním čtyř slov se pustí po vodě.
+![Branching](kawagoe_ningyou.jpeg)
+
+
 
 A na závěr - zažila jsem první zemětření. Sice jen o síle 1 a asi bych si toho nevšimla, kdybych zrovna neodpočívala, ale zážitek to byl zajímavý. Ale snad jich moc nebude. :D
+
+
+[Zpátky](./)

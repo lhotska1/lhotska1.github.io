@@ -1,3 +1,5 @@
+# Výhled z 45. patra, nejfrekventovanější přechod na světě a japonská pošta
+
 Dnešní moje procházka začínala v **Shinjuku**. Zde se nachází Tokyo Metropolitan Goverment Building, který nabízí zdarma výhled z 45. patra. Člověk si musí trochu počkat (což je v Japonsku zvykem), ale výhled stojí za to! Za lepších podmínek by byla i vidět hora Fuji, já však viděla jen bílou mlhu/smog.Tak třeba příště.
 
  ![Branching](metropolitan_gov_b.jpeg)
