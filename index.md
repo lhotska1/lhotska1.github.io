@@ -2,13 +2,16 @@
 layout: default
 ---
 
-ZKOUSKAAAAA
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
 [Kapitola 1](./1_prvni_tyden.html).
+
+[Kapitola 2](./2_vyhled_prechod_posta.html).
+
+[Kapitola 3](./3_svatyne_park_sakury.html).
 
 There should be whitespace between paragraphs.
 
