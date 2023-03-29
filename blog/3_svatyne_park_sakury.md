@@ -7,7 +7,11 @@ Vypisovat všechny svatyně a chrámy, které jsem navštívala za jednu celoden
 
 Zmíním tu ale jednu, která byla obzvlášť hezká a nehemžila se turisty (byli tam, to ano, ale kam se hrabou jiné). **Nezu svatyně** 
 
-![Branching](svatyne_mezi_baraky.jpeg)
+![Branching](../photos/nezu.jpeg)
+
+Co se mi dále líbí je to, jak svatyně a chrámy jsou všude - i mezi nově stavěnými baráky!
+
+![Branching](../photos/svatyne_mezi_baraky.jpeg)
 
 
 

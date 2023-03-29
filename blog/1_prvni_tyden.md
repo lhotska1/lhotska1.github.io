@@ -13,11 +13,11 @@ Co člověka (respektive Evropana) může naopak potěšit, je celkem cenově do
 Každopádně, pomalu prozkoumávám Tokio i jeho okolí. Za zmínku určitě stojí půldenní výlet do **Kawagoe**, kterému se říká "malé Edo". **Edo** bylo dříve název Tokia, Kawagoe má tedy nádech staršího Japonska. 
 
 
-![Branching](kawagoe.jpeg)
-![Branching](kawagoe_childer_day.jpeg)
+![Branching](../photos/kawagoe.jpeg)
+![Branching](../photos/kawagoe_childer_day.jpeg)
 
 V jedné z místních svatyň, **Hikawa svatyně**, jsem provedla rituál s názvem _hitogata nagashi_, jehož účelem je očistit své prohřesky. Třikrát se foukne na washi papír tvaru lidské postavičky _hitogata_, dále se s ní člověk symbolicky otře a se zaříkáváním čtyř slov se pustí po vodě.
-![Branching](kawagoe_ningyou.jpeg)
+![Branching](../photos/kawagoe_ningyou.jpeg)
 
 
 
