@@ -1,14 +1,14 @@
 # Výhled z 45. patra, nejfrekventovanější přechod na světě a japonská pošta
 
-Dnešní moje procházka začínala v **Shinjuku**. Zde se nachází Tokyo Metropolitan Goverment Building, který nabízí zdarma výhled z 45. patra. Člověk si musí trochu počkat (což je v Japonsku zvykem), ale výhled stojí za to! Za lepších podmínek by byla i vidět hora Fuji, já však viděla jen bílou mlhu/smog.Tak třeba příště.
+Dnešní moje procházka začínala v **Shinjuku**. Zde se nachází Tokyo Metropolitan Goverment Building, který nabízí zdarma výhled z 45. patra. Člověk si musí trochu počkat (což je v Japonsku zvykem), ale výhled stojí za to! Za lepších podmínek by byla i vidět hora Fuji, já však viděla jen bílou mlhu/smog. Tak třeba příště.
 
  ![Branching](../photos/metropolitan_gov_b.jpeg)
  
- Než jsem se vydala dál, zašla jsem na oběd. Vytipovanou restauraci an Ochazuke jsem nakonec našla (člověk se toho v Tokiu nahledá opravdu hodně) a dala si nějakou sezónní specialitu (fakt netuším co to bylo, ale bylo to sezónní, tak proč ne). Ochazuke mě stálo nějakých 150 Kč (na to, že jsem v jednom z center Tokia? Cena dobrá!) a jedná se o jídlo, kde se rýže zalije teplým zeleným čajem. Dobrý to bylo a někdy plánuju zase.
+ Než jsem se vydala dál, zašla jsem na oběd. Vytipovanou restauraci na Ochazuke jsem nakonec našla (člověk se toho v Tokiu nahledá opravdu hodně) a dala si nějakou sezónní specialitu (fakt netuším co to bylo, ale bylo to sezónní, tak proč ne). Ochazuke mě stálo nějakých 150 Kč (na to, že jsem v jednom z center Tokia? Cena dobrá!) a jedná se o jídlo, kde se rýže zalije teplým zeleným čajem. Pochutnala jsem si a někdy plánuju zase.
  
   ![Branching](../photos/ochazuke.jpeg)
  
- Pak jsem se pešky vydala do **Shibuya** čtvrti a rovnou to vzala přes **Yoyogi park**. Park je to pěkný, hlavně vyměníte nachvíli zeleň a klid za rušné paneláky a auta. Lidí se tu člověk ale bohužel moc nezbaví - tolik turistických skupinek by mohl závidět pomalu i Pražský hrad. Příště proto možná zkusím zamířit do jiného, byď i menšího, ale lidu-mírnějšího parku.
+ Pak jsem se pešky vydala do **Shibuya** čtvrti a rovnou to vzala přes **Yoyogi park**. Park je to pěkný, hlavně vyměníte nachvíli zeleň a klid za rušné paneláky a auta. Lidí se tu člověk ale bohužel moc nezbaví - tolik turistických skupinek by mohl závidět pomalu i Pražský hrad. Příště proto možná zkusím zamířit do jiného, byť i menšího, ale lidu-mírnějšího parku.
  Za zmínku z tohoto parku ale stojí staré sudy na saké, kterých bylo tolik, že tvořily celou zeď. Na protější straně cesty pak podobně vyskládané stály sudy vína z Francie.
  
   ![Branching](../photos/sake_sudy.jpeg)
@@ -17,7 +17,7 @@ Dnešní moje procházka začínala v **Shinjuku**. Zde se nachází Tokyo Metro
  
 Hned vedle **Shibuya Crossing** je socha psa jménem **Hachikō**, který přes 9 let chodil čekat na svého páníčka, který umřel v práci, na nádraží. Sochu jsem viděla z dálky a pro teď mi to asi stačí - davy lidí tam byly ohromné. 
  
-Tento den jsem také začala svůj "hon za nejdivnější gachapon", ala automaty, kde za pár 100yen mincí vám vypadne jedna z nabízených hraček. Tuto soutěž zatím vyhrává sada figurek protahujících se soch z Velikonočního ostrova. 
+Tento den jsem také začala svůj "hon za nejdivnější gachapon", ala automaty, kde za pár 100 yenových (momentální kurz cca 100 yen = 17 Kč) mincí vám vypadne jedna z nabízených hraček. Tuto soutěž zatím vyhrává sada figurek protahujících se soch z Velikonočního ostrova. 
 
  ![Branching](../photos/vel_ostrov.jpeg)
 
@@ -26,4 +26,4 @@ A na závěr - posílejte z Japonska pohledy/dopisy! Šla jsem poslat jeden dopi
 
 
 
-[Zpátky](./)
+[Zpátky](../)

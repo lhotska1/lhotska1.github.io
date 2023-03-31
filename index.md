@@ -14,5 +14,5 @@ layout: default
 
 
 
-[Kapitola 4., Jízda na kole, 10 svatyň Tokia a vysokoškolské koleje](./blog/4_kolo_svatyne_koleje.html).
+[Na kole po chodníku, 10 svatyň Tokia a koleje se střechou](./blog/4_kolo_svatyne_koleje.html).
 
