@@ -13,9 +13,9 @@ A jak jsem říkala, že je objevuju náhodně? Přesně takhle: člověk jde a 
 
 ![Branching](../photos/svatyne_mezi_baraky.jpeg)
 
-V Japonsku jsou obecně šintoinstické svatyně a budhistické chrámy. Rozdíly jsou tam velké - od toho, kdo se uctívá (bůžci přírody vs. Buddha), jakou bránu má (brána Torii se sochy "psů" Komainu vs. brána Sanmon), či jakým způsobem se tam člověk modlí. Šintoinstické svatyně byly v Japonsku první, poté přišel Buddhismus, ovšem protože to kde kdo zaměňoval a nic nebylo pevně dané, mnoho svatyň/chrámů má prvky z obou. Pro fajšmekry doporučuji toto pěkné videjko: https://www.youtube.com/watch?v=Ll696KfKjEc
+V Japonsku jsou obecně šintoistické svatyně a buddhistické chrámy. Rozdíly jsou tam velké - od toho, kdo se uctívá (bůžci přírody vs. Buddha), jakou bránu má (brána Torii se sochy "psů" Komainu vs. brána Sanmon), či jakým způsobem se tam člověk modlí. Šintoistické svatyně byly v Japonsku první, poté přišel Buddhismus, ovšem protože to kde kdo zaměňoval a nic nebylo pevně dané, mnoho svatyň/chrámů má prvky z obou. Pro fajšmekry doporučuji toto pěkné videjko: https://www.youtube.com/watch?v=Ll696KfKjEc
 
-Poté jsem pokračovala **Ueno** parkem dál. Překvapilo mě, hlavně na okraji, množství bezdomovců - pro Japonsko celkem pro mě nová podívaná. Když se ale člověk dostal dál, spatřil krásu rozkvetlých sakur. Prý se dokonce (a nejen zde) sakury v noci podsvěcují. Někdy asi budu muset na noční podívanou vyrazit, musí to být nádherné. 
+Poté jsem pokračovala **Ueno** parkem dál. Překvapilo mě, hlavně na okraji, množství bezdomovců - pro Japonsko celkem pro mě nová podívaná. Když se ale člověk dostal dál, spatřil krásu rozkvetlých sakur. Tu se dokonce (a nejen zde) sakury v noci podsvěcují. Někdy asi budu muset na noční podívanou vyrazit, musí to být nádherné. 
 
 No a nakonec pár fotek!
 

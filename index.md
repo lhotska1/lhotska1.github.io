@@ -14,5 +14,5 @@ layout: default
 
 
 
-[Na kole po chodníku, 10 svatyň Tokia a koleje se střechou](./blog/4_kolo_svatyne_koleje.html).
+[Kapitola 4., Na kole po chodníku, 10 svatyň Tokia a koleje se střechou](./blog/4_kolo_svatyne_koleje.html).
 

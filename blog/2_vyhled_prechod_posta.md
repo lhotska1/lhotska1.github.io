@@ -8,8 +8,8 @@ Dnešní moje procházka začínala v **Shinjuku**. Zde se nachází Tokyo Metro
  
   ![Branching](../photos/ochazuke.jpeg)
  
- Pak jsem se pešky vydala do **Shibuya** čtvrti a rovnou to vzala přes **Yoyogi park**. Park je to pěkný, hlavně vyměníte nachvíli zeleň a klid za rušné paneláky a auta. Lidí se tu člověk ale bohužel moc nezbaví - tolik turistických skupinek by mohl závidět pomalu i Pražský hrad. Příště proto možná zkusím zamířit do jiného, byť i menšího, ale lidu-mírnějšího parku.
- Za zmínku z tohoto parku ale stojí staré sudy na saké, kterých bylo tolik, že tvořily celou zeď. Na protější straně cesty pak podobně vyskládané stály sudy vína z Francie.
+ Pak jsem se pešky vydala do **Shibuya** čtvrti a rovnou to vzala přes **Yoyogi park**. Park je to pěkný, hlavně vyměníte nachvíli rušné obchody a auta za zeleň a klid. Lidí se tu člověk ale bohužel moc nezbaví - tolik turistických skupinek by mohl závidět pomalu i Pražský hrad. Příště proto možná zkusím zamířit do jiného, byť i menšího, ale lidu-mírnějšího parku.
+ Za zmínku z tohoto parku však stojí staré sudy na saké, kterých bylo tolik, že tvořily celou zeď. Na protější straně cesty pak podobně vyskládané stály sudy vína z Francie.
  
   ![Branching](../photos/sake_sudy.jpeg)
  

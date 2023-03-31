@@ -18,7 +18,7 @@ V jedné z těchto svatyň, **Kameido-Tenjin**, jsem si všimla, že tato svatyn
 
 Když nastal den stěhování na kolej, zabalila jsem kufry a z Airbnb ubytka vyrazila na cestu. Vše dopadlo ok a paní u dveří mě hned vítala. Nastalo seznámení s tím, jak to tady chodí... no, až na to, že full in japanese. Ta paní byla hrozně hodná a tak, ale bylo vidět, že s angličtinou bojuje mnohem víc než já s japonštinou. Člověk ale naštěstí pochopí hodně jen očima a ukazováním.
 
-Odpoledne jsem ještě vyrazila na kole poznat krásy okolí, navšívila další 3 šintoinstické svatyně (come on, mám na ně slabost! :D) a krásný kvetoucí park, kde jsem si rovnou dala Kakigouri - ledová tříšť pokapaná sladkým sirupem. Jí se jako zmrzka v kelímku a vyhovuje mi mnohem víc než ta naše ve stylu pití - japonská varianta není přeslazená.
+Odpoledne jsem ještě vyrazila na kole poznat krásy okolí, navšívila další 3 šintoinstické svatyně (come on, mám pro ně slabost! :D) a krásný kvetoucí park, kde jsem si rovnou dala Kakigouri - ledovou tříšť pokapanou sladkým sirupem. Jí se jako zmrzka v kelímku a vyhovuje mi mnohem víc než ta naše ve stylu pití - japonská varianta není přeslazená.
 
 ![Branching](../photos/kakigouri.jpeg)
 ![Branching](../photos/sakura.jpeg)
