@@ -10,7 +10,7 @@ Nakonec jsme se rozhodly pro **Shinjuku Gyoen National** pro lov posledních sak
 ![Branching](../photos/shinjuku_sakury.jpeg)
 
 Fotka naší výletové skupinky z pokusu č. 1: Amelie, Elizabeth, Aisha, já, Tomomi:
-![Branching](../photos/shinjuku_group.jpeg)
+![Branching](../photos/shinjuku_group.jpg)
 
 
 Uplynul týden, nastala neděle a náš pokus číslo 2. Celý týden jsme bedlivě sledovaly počasí, neboť být blízko hory Fuji neznamená automaticky její dobrou viditelnost. Ovšem nakonec se vydařilo, a to nejlépe jak jen mohlo - 100% viditelnost, nebe bez mráčků a teplo tak akorát! Poslední sakury sice mezitím už úplně odkvetly, ale i tak to byla moc hezká podívaná.
@@ -19,11 +19,13 @@ Uplynul týden, nastala neděle a náš pokus číslo 2. Celý týden jsme bedli
 
 ![Branching](../photos/fuji_chureito.jpeg)
 
-Ve svatyni hned pod Pagodou **Shiogama Shrine** byla slyšet hudba. Koupila jsem si tam _omikuji_, papírek s předpovědí budoucnosti, zda člověk bude mít štěstí nebo smůlu. Když je předpověď špatná, papírek se přiváže ve svatyni, aby se předpověď nenaplnila. Já po dlouhé době měla "střední štěstí", což je jen jeden krok od nejlepšího "velkého štěstí", takže jsem po dlouhé době papírek vázat nemusela.
-
+Ve svatyni hned pod Pagodou **Shiogama Shrine** byla slyšet hudba.
 ![Branching](../photos/fuji_hudba.jpeg)
+Také jsem si tam koupila _omikuji_, papírek s předpovědí budoucnosti, zda člověk bude mít štěstí nebo smůlu. Když je předpověď špatná, papírek se přiváže ve svatyni, aby se předpověď nenaplnila. Já po dlouhé době měla "střední štěstí", což je jen jeden krok od nejlepšího "velkého štěstí", takže jsem po dlouhé době papírek vázat nemusela.
 
-**Shimoyoshida** je velmi pěkné místo, především je úžasné vidět Fuji skoro na každém kroku. Ne nadarmo byly všude cedule, ať nevcházíme horu fotit do prostřed silnice.
+
+
+**Shimoyoshida** je velmi pěkné místo, především je úžasné vidět Fuji skoro na každém kroku. Ne nadarmo byly všude cedule, ať nevcházíme horu fotit doprostřed silnice.
 
 ![Branching](../photos/fuji_street.jpeg)
 
@@ -36,7 +38,7 @@ Jedna zdarma vyhlídka byla i na střeše obchoďáku.
 ![Branching](../photos/fuji_eki.jpeg)
 
 A na závěr fotka naší výletové skupinky z pokusu č. 2: Elizabeth, já, Tomomi, Amelie, Aisha:
-![Branching](../photos/fuji_group.jpeg)
+![Branching](../photos/fuji_group.jpg)
 
 
 
