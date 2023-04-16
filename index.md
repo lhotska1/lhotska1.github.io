@@ -16,3 +16,7 @@ layout: default
 
 [Kapitola 4., Na kole po chodníku, 10 svatyň Tokia a koleje se střechou](./blog/4_kolo_svatyne_koleje.html).
 
+[Kapitola 5., Rýže k snídani, večerní koupel a školní kluby](./blog/5_ryze_onsen_skola.html).
+
+[Kapitola 6., Výlet na dvakrát, poslední sakury a výhled na horu Fuji](./blog/6_vylet_park_pagoda.html).
+

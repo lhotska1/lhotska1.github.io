@@ -21,7 +21,7 @@ Uplynul týden, nastala neděle a náš pokus číslo 2. Celý týden jsme bedli
 
 Ve svatyni hned pod Pagodou **Shiogama Shrine** byla slyšet hudba.
 ![Branching](../photos/fuji_hudba.jpeg)
-Také jsem si tam koupila _omikuji_, papírek s předpovědí budoucnosti, zda člověk bude mít štěstí nebo smůlu. Když je předpověď špatná, papírek se přiváže ve svatyni, aby se předpověď nenaplnila. Já po dlouhé době měla "střední štěstí", což je jen jeden krok od nejlepšího "velkého štěstí", takže jsem po dlouhé době papírek vázat nemusela.
+Také jsem si tam koupila _omikuji_, papírek s předpovědí budoucnosti, zda člověk bude mít štěstí nebo smůlu. Když je předpověď špatná, papírek se přiváže ve svatyni, aby se předpověď nenaplnila. Já po dlouhé době měla "střední štěstí", což je jen jeden krok od nejlepšího "velkého štěstí", takže jsem konečně pro jednou papírek vázat nemusela.
 
 
 
