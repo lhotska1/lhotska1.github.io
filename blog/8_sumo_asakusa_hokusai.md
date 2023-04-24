@@ -1,11 +1,11 @@
-# Sumo zápasníci bez sumo zápasníků, předvolební kampaň a The Great Wave of Katanazawa
+# Sumo zápasníci bez sumo zápasníků, předvolební kampaň a Velká vlna u pobřeží Kanagawy
 
 
-V sobotu 22.4. jsme se vydali na událost _Sumo make baby cry_, tedy _sumo zápasníci snažící se rozbrečet děti_. Akce to byla zajímavá, jen ti sumo zápasníci nějak úplně chyběli... Moderátor mluvil pouze japonsky, ale mám pocit, že mluvil o tom, že kvůli covidu a pandemii (kdy akce nebyla), je to letos bez sumo a místo nich si své děti drželi sami rodiče. Ti vždy s dítětem vkročili do sumo ringu a cílem bylo své dítě rozbrečet více. Zde se totiž hlasité brečení bere jako ukázka síly a zdraví. Ale co jsem tak brouzdala po internetu, tradice se může na různých místech Japonska lišit. 
+V sobotu 22.4. jsme se vydali na událost _Sumo make baby cry_, tedy _Sumo zápasníci snažící se rozbrečet děti_. Akce to byla zajímavá, jen ti sumo zápasníci nějak úplně chyběli... Moderátor mluvil pouze japonsky, ale mám pocit, že mluvil o tom, že kvůli covidu a pandemii (kdy akce nebyla), je to letos bez sumo zápasníků a místo nich si své děti drželi sami rodiče. Ti vždy s dítětem vkročili do sumo ringu a cílem bylo své dítě rozbrečet více. Zde se totiž hlasité brečení bere jako ukázka síly a zdraví. Ale co jsem tak brouzdala po internetu, tradice se může na různých místech Japonska lišit. 
 
 ![Branching](../photos/sumo.jpeg)
 
-Celá tato brečící akce se děla vedle **Sensō-ji** budhistického chrámu ve čtvrti **Asakusa**, jednoho z nejnavštěvovanějších v Tokiu. Nezávisle na dni, času či počasí, lidí tu je vždy hromada, a to jak cizinců, tak místních.
+Celá tato brečící akce se děla vedle **Sensō-ji** buddhistického chrámu ve čtvrti **Asakusa**, jednoho z nejnavštěvovanějších v Tokiu. Nezávisle na dni, času či počasí, lidí tu je vždy hromada, a to jak cizinců, tak místních.
 
 Co se mi ale na **Asakusa** líbí jsou ty uličky kolem, hlavně ty, ze kterých vykukuje Tokyo Sky Tree. 
 
@@ -31,12 +31,14 @@ Také jsem zašla trochu za kulturou. Poblíž **Ryougoku** stanice je **The Sum
 
 ![Branching](../photos/hokusai_wave.jpeg)
 
-Velká vlna u pobřeží Kanagawy/The Great Wave off Kanagawa je dřevotisk žánru ukiyo-e. Ukiyo-e jsou "obrazy probíhajícího, pomíjivého života", jak říká Wikipedie, a víceméně to jsou obrazy přírody, života, divadla, sumo, žen, a všeho možného v období kdy toto umění prosperovalo, a to 17.-19. století. 
+Velká vlna u pobřeží Kanagawy/The Great Wave off Kanagawa je dřevotisk žánru ukiyo-e. Ukiyo-e jsou "obrazy probíhajícího, pomíjivého života", jak říká Wikipedie, a víceméně to jsou obrazy přírody, života, divadla, sumo, žen, a všeho možného v období, kdy toto umění prosperovalo, a to 17.-19. století. 
 Jelikož je to také často dřevotisk, tedy výsledný obraz je pak jen kopií, mám trochu zmatek v tom, co teda jaká kopie je a jestli obraz, co jsem viděla na výstaně, se vůbec dá považovat za nějaký "originál". Tento styl umění se mi velmi líbí, o čemž svědčí i to, že jsem si v muzeu koupila o ukiyo-e knihu, tak snad už příště budu víc vědět o čem že to přesně píšu.
 
 Také mám velmi ráda tento obraz:
 ![Branching](../photos/hokusai_ghost.jpeg)
 
 V Praze mám knížku o Youkai, strašidlech a duchách v ukiyo-e obrazech a tento obraz je na obalu knihy. Bylo proto milé obraz vidět i na výstavě.
+
+Hokusai se narodil v Tokiu (resp. když se ještě Tokio jmenovalo Edo) a mnoho jeho děl vyobrazuje Tokijské mosty (hlavně ten v Ryougoku), chrámy a horu Fuji, a byl to skvělý pocit tato místa, která jsem sama viděla, vidět i na dílech stará stovky let.
 
 [Zpátky](../)

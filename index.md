@@ -23,4 +23,4 @@ layout: default
 [Kapitola 7., Kvetoucí vistárie, kontroverzní svatyně válečných zločinců a kapří přípravy na Den dětí](./blog/7_vistarie_kontroverze_kaprici.html).
 
 
-
+[Kapitola 8., Sumo zápasníci bez sumo zápasníků, předvolební kampaň a Velká vlna u pobřeží Kanagawy](./blog/8_sumo_asakusa_hokusai.html).
