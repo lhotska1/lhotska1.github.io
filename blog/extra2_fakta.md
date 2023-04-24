@@ -1,20 +1,6 @@
-# Razítka všude možně, Sky Tree v oblacích a 10 random faktů/zajímavostí nejen o Tokiu
+# 11(?) random faktů/zajímavostí nejen o Tokiu
 
-Kdo má rád razítka všeho druhu, ten se v Japonsku (Tokiu) má. Všemožná razítka se dají najít na stanicích vlaků, u památek v kulturních centrech či za poplatek i v svatyních (a že jsou nádherná!).
-
-
-
-![Branching](../photos/razitka.jpeg)
-
-Osobně jsem si žádný spešl deníček na razítka nekoupila a razítka tisknu na náhodné papíry co najdu, i tak jsem jen za pár dní mnoho razítek nastřádala.
-
-![Branching](../photos/stamps.jpeg)
-
-Počasí je tu dosti proměnlivé. Pár dní zpátky například úplně propršelo. Přijde mi v těchto dnech zajímavý pohled na Tokyo Sky Tree, především když vzhledem k její výšce není ani celá vidět.
-
-![Branching](../photos/sky_tree_v_oblacich.jpeg)
-
-A nakonec, napadlo mě sepsat pár náhodných věcí, které mi přijdou obecně zajímavé/jiné/prostě náhodné.
+Nestále-aktualizovný seznam pár náhodných věcí, která mi přijdou obecně zajímavá/jiná/prostě náhodná.
 
 1. Japonci neustále děkují. A to i ve vlacích/metru, že využíváte jejich služeb. Prostě, všude.
 2. Semafory, když je zelená, začnou hrát různé melodie, které se v různých částech Japonska mohou lehce lišit (verzí/typem). V Tokiu slyším hlavně zvuk ptáků, tuhle: [Youtube](https://youtu.be/F-7k2y-mXAw?t=87)
@@ -26,6 +12,12 @@ A nakonec, napadlo mě sepsat pár náhodných věcí, které mi přijdou obecn�
 8. Viděla jsem více psů v kočárcích než dětí v kočárcích.
 9. Děti ze školky se na procházky doslova vozí. Ve vozíku, který tahají učitelky.
 10. Je tu super dostupnost čistých veřejných záchodů (a většina z nich je chytřejších než většina záchodů v ČR).
+11. Razítka! Všemožná razítka se dají najít na stanicích vlaků, u památek v kulturních centrech či za poplatek i v svatyních (a že jsou nádherná!).
+
+![Branching](../photos/razitka.jpeg)
+
+![Branching](../photos/stamps.jpeg)
+
 
 
 [Zpátky](../)

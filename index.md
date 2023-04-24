@@ -20,3 +20,4 @@ layout: default
 
 [Kapitola 6., Výlet na dvakrát, poslední sakury a výhled na horu Fuji](./blog/6_vylet_park_pagoda.html).
 
+
