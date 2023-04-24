@@ -1,5 +1,12 @@
 # Sumo tradice bez sumo zápasníků, bloudění v uličkách a The Great Wave of Katanazawa
 
+predvolebni kampan
+
+taiyaki
+
+mini svatyně
+
+uličky v asakusa
 
 
 Také jsem zašla trochu za kulturou. Poblíž **Ryougoku** stanice je ** **, kde je výstava umělce Hokusai. Přestože jméno asi nic moc nikomu neřekne, věřím, že tento obraz už ano:
