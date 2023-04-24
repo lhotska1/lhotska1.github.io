@@ -20,4 +20,7 @@ layout: default
 
 [Kapitola 6., Výlet na dvakrát, poslední sakury a výhled na horu Fuji](./blog/6_vylet_park_pagoda.html).
 
+[Kapitola 7., Kvetoucí vistárie, kontroverzní svatyně válečných zločinců a kapří přípravy na Den dětí](./blog/7_vistarie_kontroverze_kaprici.html).
+
+
 
