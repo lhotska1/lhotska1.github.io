@@ -24,3 +24,7 @@ layout: default
 
 
 [Kapitola 8., Sumo zápasníci bez sumo zápasníků, předvolební kampaň a Velká vlna u pobřeží Kanagawy](./blog/8_sumo_asakusa_hokusai.html).
+
+[Kapitola 9., Výstava umění z Francie, svatyně počasí a byla jsem v telce!](./blog/9_louvre_pocasi_telka.html).
+
+[Kapitola 10., Golden week část 1, baseball hra, Akabane festival a Suzume no Tojimari](./blog/10_baseball_akabane_suzume.html).
