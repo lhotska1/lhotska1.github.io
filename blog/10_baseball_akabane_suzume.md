@@ -19,7 +19,7 @@ Prvního května jsme se s Tomomi vydaly do kina (TOHO kina mají prvního v mě
 
 ![Branching](../photos/suzume.jpeg)
 
-Samozřejmě naše úrovně japonštiny zdaleka nestačily na plné pochopení filmu, ale myslím, že tak 70-80% jsme pochytaly (vše až na ta místa, kde vysvětlovali, co se přesně děje :D) a bylo fakt zajímavé po filmu diskutovat co jsme pochopily a co minuly a tak si doplňovaly detaily. Velké plus bylo pro nás i to, že část filmu se odehrávala v Tokiu, dokonce na zastávce **Ochanomizu**, která je známá pro sledování vlaků, a kteoru každý den jezdíme do školy.
+Samozřejmě naše úrovně japonštiny zdaleka nestačily na plné pochopení filmu, ale myslím, že tak 70-80% jsme pochytaly (vše až na ta místa, kde vysvětlovali, co se přesně děje :D) a bylo fakt zajímavé po filmu diskutovat co jsme pochopily a co minuly a tak si doplňovaly detaily. Velké plus bylo pro nás i to, že část filmu se odehrávala v Tokiu, dokonce na zastávce **Ochanomizu**, která je známá pro sledování vlaků, a kterou každý den jezdíme do školy.
 
 Hodně se mi líbil koncept filmu a děj a jeho reference na skutečné události a japonský folklór. Ve filmu byla reference (ne přímo řečená, ale dost očividná) na velké zemětření v **Tóhoku** v roce 2011, kde ve filmu hlavní hrdinka ztratila maminku. Děj se odehrává po různých místech v Japonsku, především kde byla nějaká velká zemetřesení (třeba v Tokiu přesně před 100 lety), a končí právě v Tóhoku. 
 
