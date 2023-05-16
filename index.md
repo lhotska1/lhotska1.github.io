@@ -28,3 +28,9 @@ layout: default
 [Kapitola 9., Výstava umění z Francie, svatyně počasí a byla jsem v telce!](./blog/9_louvre_pocasi_telka.html).
 
 [Kapitola 10., Golden week část 1, baseball hra, Akabane festival a Suzume no Tojimari](./blog/10_baseball_akabane_suzume.html).
+
+[Kapitola 11., Golden week část 2, Yosakoi festival, mořský svět a piknik](./bog/11_kisarazu_sea_piknik.html)
+
+[Kapitola 12., Golden Week část 3, příroda v Chichibu, Gundam robot a Socha Svobody](./blog/12_chichibu_gundam_socha.html)
+
+[Kapitola 13., Návrat do školy, alarm v půl 5 ráno a školní tělocvična](./blog/13_navrat_alarm_telocvicna.html)
