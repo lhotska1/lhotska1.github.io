@@ -29,7 +29,7 @@ layout: default
 
 [Kapitola 10., Golden week část 1, baseball hra, Akabane festival a Suzume no Tojimari](./blog/10_baseball_akabane_suzume.html).
 
-[Kapitola 11., Golden week část 2, Yosakoi festival, mořský svět a piknik](./bog/11_kisarazu_sea_piknik.html)
+[Kapitola 11., Golden week část 2, Yosakoi festival, mořský svět a piknik](./blog/11_kisarazu_sea_piknik.html)
 
 [Kapitola 12., Golden Week část 3, příroda v Chichibu, Gundam robot a Socha Svobody](./blog/12_chichibu_gundam_socha.html)
 
