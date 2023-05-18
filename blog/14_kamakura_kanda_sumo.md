@@ -27,14 +27,31 @@ Enoshima je krásný malý ostrov a jelikož je to hned vedle moře, je zde mnoh
 
 ![Branching](../photos/kamakura_jidlo.jpeg)
 
+Ostrov samotný má pak hezké uličky na chození, velkou zahradu co krásně kvete, pár svatyň, jeskyně i krásné výhledy.
 
+Mimochodem, pozor na nálety! Hlídejte si jídlo!
+
+![Branching](../photos/nalety.jpeg)
 
 V neděli se konaly hned minimálně 3 festivaly (o kterých jsem věděla), stihla jsem ale "jen" 2. I ty však stály za to.
 
-První byl **Kanda festival**, jeden ze 3 největších festivalů
+První byl **Kanda festival**, konaný poprvé od počátku pandemie, jeden ze 3 největších Great Shinto Festivalů v Tokiu. Většinou mají festivaly každý den trochu jiný program, a v neděli tento festival spočíval v nošení **mikoshi**, malých přenosných svatyň (které jsou velmi těžké). Většina těchto průvodů končila právě v **Kanda Myojin** svatyni, proto ten název, ovšem jelikož průvody nošených svatyň začínaly v různých místech, pokud byly moc daleko, celou cestu některé nepodnikly.
 
 
-Druhý, který jsem stihla navštívit, byl **Chestnut festival** v Asakusabashi
+Zážitek to byl fakt skvělý - stihly jsme začátek jednoho průvodu, takže jsme byly obklopeny spíše místními a ze začátku i dětmi, které si zkoušely nosit menší dětstvou verzi (to bylo opravdu roztomilé). Průvod šel pár desítek metrů a pak si dali pauzu. V místech pauz měli nošiči občerstvení na posilnění.
+
+![Branching](../photos/kanda.jpeg)
+
+![Branching](../photos/kanda2.jpeg)
+
+Pak jsme na rychlo navštívili samotnou Kanda Myojin svatyni, ale lidí tam bylo tolik, že jsme rychle zase odešly a vydaly se dál. Každopádně i jen cesta tam byla zajímavá, jelikož jsme to šly pěšky a cestou neplánovaně narazily na minimálně 5 dalších nošenýh svatyň!
+
+Mimochodem, festival byl i na Youtube živě - třeba příště bude znova.
+
+
+Druhý, který jsem stihla navštívit, byl **Chestnut festival** v Asakusabashi. Jednalo se o maličký fetival s hudbou a tanečními vystoupeními, převážně **Awa odori**, další druh tance pocházející z prefektury Tokushima, a dolněný stánky s jídlem. 
+
+![Branching](../photos/awa.jpeg)
 
 
 V pondělí jsme vyrazili do **Ryogoku** stanice, kde je sumo aréna. Měli jsme totiž lístky na druhý den zápasů **Grand Sumo Tournament 2023**. Zápasy začínaly začátečníky, po obědě pokročilí a odpoledne ti nejlepší. Bylo zajímavé sledovat, jak se v průběhu dne aréna plnila lidmi, slavnostní rituály před zápasy prodlužovaly a zápasníci přibývali na váze.
@@ -44,6 +61,10 @@ Před každým zápasem vždy bylo prohlášeno kdo zápasí, oba sumo zápasní
 Osobně mě to ale hodně bavilo. Byly to rychlé zápas a napínavé. Když byl zápas nerozhodný, jeden z 5 soudců sedících kolem kruhu zvedl ruku a všichni se sešli uvnitř kruhu, aby zápas prodiskutovali. Pak probíhalo buď vyhlášení vítěze nebo se zápas opakoval. Také poté pokaždé vyslovili se jménem vítěze i technik, která vedla k vítězství. Hodně užitečná byla [tato](https://sports.japantimes.co.jp/sumo/techniques.html) stránka a bavilo mě si techniky buď hledat nebo tipovat, když jsem tušila, že co techniku jsem právě viděla.
 
 ![Branching](../photos/sumo_celkem.jpeg)
+
+Přestože jsme seděli na nejvzdálenějších místech, výhled jsme měli dobrý a cena byla také hodně dobrá (3500 yen = 560 Kč za celý den).
+
+Středně pokročilí a senioři před svým blokem nastoupili do kruku, aby se ukázali publiku. Tehdy bylo slyšet, na základě povzbuzování, kdo má nejvíce fanoušků. Obecně, lidi tu měli své favority a na sváncích kolem arény si šlo koupit i speciální merch, třeba vějíř s obličeji oblícených zápasníků.
 
 ![Branching](../photos/sumo_kruh.jpeg)
 
