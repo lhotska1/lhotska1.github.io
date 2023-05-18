@@ -34,3 +34,5 @@ layout: default
 [Kapitola 12., Golden Week část 3, příroda v Chichibu, Gundam robot a Socha Svobody](./blog/12_chichibu_gundam_socha.html)
 
 [Kapitola 13., Návrat do školy, alarm v půl 5 ráno a školní tělocvična](./blog/13_navrat_alarm_telocvicna.html)
+
+[Kapitola 14., Velký dutý Buddha, průvody nošených svatyň a sumo turnaj](./blog/kamakura_kanda_sumo.html)
