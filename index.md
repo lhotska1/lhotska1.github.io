@@ -35,4 +35,4 @@ layout: default
 
 [Kapitola 13., Návrat do školy, alarm v půl 5 ráno a školní tělocvična](./blog/13_navrat_alarm_telocvicna.html)
 
-[Kapitola 14., Velký dutý Buddha, průvody nošených svatyň a sumo turnaj](./blog/kamakura_kanda_sumo.html)
+[Kapitola 14., Velký dutý Buddha, průvody nošených svatyň a sumo turnaj](./blog/14_kamakura_kanda_sumo.html)
