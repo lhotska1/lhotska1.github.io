@@ -36,3 +36,5 @@ layout: default
 [Kapitola 13., Návrat do školy, alarm v půl 5 ráno a školní tělocvična](./blog/13_navrat_alarm_telocvicna.html)
 
 [Kapitola 14., Velký dutý Buddha, průvody nošených svatyň a sumo turnaj](./blog/14_kamakura_kanda_sumo.html)
+
+[Kapirola 15., Picasso v Tokiu, nejnavštěvovanější hora na světě, a Alegría od Cirque du Soleil](./blog/15_muzeum_takao_alegria.html)
