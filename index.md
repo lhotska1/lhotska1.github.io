@@ -38,3 +38,10 @@ layout: default
 [Kapitola 14., Velký dutý Buddha, průvody nošených svatyň a sumo turnaj](./blog/14_kamakura_kanda_sumo.html)
 
 [Kapirola 15., Picasso v Tokiu, nejnavštěvovanější hora na světě a Alegría od Cirque du Soleil](./blog/15_muzeum_takao_alegria.html)
+
+
+[Kapirola 16., Noční Asakusa, shabu-shabu a okolí Tokyo Tower](./blog/16_asakusa_shabushabu_tower.html)
+
+[Kapirola 17., Císařské zahrady, muzikál Heathers a Tokyo National Museum](./blog/17_zahrady_muzikal_museum.html)
+
+[Kapirola 18., Tajfún, profesionální baseball a čtvrť sekáčů](./blog/18_tajfun_baseball_sekace.html)
