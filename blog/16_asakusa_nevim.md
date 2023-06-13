@@ -29,20 +29,20 @@ Nejzajímavější byly vedle chrámu stojící malé sošek, které slouží ja
 
 ![Branching](../photos/deti.jpeg)
 
-Další den se konalo pár menších festivalů/akcí, já zašla například na vystoupení **bubn taiko** - i když to byl vysokoškolký klub, byly opravdu dobří a velmi synchronizovaní.
+Další den se konalo pár menších festivalů/akcí, já zašla například na vystoupení **bubny taiko** - i když to byl vysokoškolký klub, byly opravdu dobří a velmi synchronizovaní.
 
 ![Branching](../photos/shibuya_bubny.jpeg)
 
 [Zpátky](../)
 
 
-# Císařské zahrady, muzikál Heathers a nejhezší pas    + muzeum
+# Císařské zahrady, muzikál Heathers a Tokyo National Museum
 
 Jedna ze svatyň poblíž školy, **Tokyo Daijingu**, měla malou akci sbírání QR kódů v okolí, kdy jste za ně mohli dostat tenhle hezký pin, tak jsem si pro jeden taky zašla.
 
 ![Branching](../photos/shrine_hosei.jpg)
 
-Poté jsem to prošla do 
+Poté jsem to prošla do **Kitanomaru National Garden**, **The East Gardens of the Imperial Palace** a **Kokyo Gaien National Garden**, vše parky kolem **Kókjo**, hlavního sídla japonského císaře. Přestože tyto zahrady byly zadarmo, do části s císařským palácem se může jen v rámci komentované prohlídky, která je sice taky zdarma, ale jen dvakrát za den a všechny časy jsou už beznadějně zarezervovány. Samotné okolní zahrady jsou pěkné, i když z mého pohledu nic extra. Odpočinete si od přeplněného centra, neboť ty zahrady jsou velmi rozlehlé, ale také působí až trochu pustě. Každopádně pěkné jsou!
 
 ![Branching](../photos/zahrady1.jpeg)
 ![Branching](../photos/zahrady2.jpeg)
@@ -51,18 +51,19 @@ Poté jsem to prošla do
 ![Branching](../photos/zahrady5.jpeg)
 
 
+Ve čtvrtek jsem měla možnost vidět jeden známý muzikál, Heathers, v podání vysokoškoláků a jiných. Měli to moc povedené, třeba živou kapelu jsem nečekala. Angličtinu měli buď hodně dobrou (asi vyrůstali v zahraničí) nebo se silným přízvukem (asi vyrůstali v Japonsku). Celkově mě ale představení velmi mile překvapilo. 
+
 A pak mi samozřejmě několik dní v hlavě hrála písnička Candy Store (ta melodie je prostě mega chytlavá).
 ![Branching](../photos/hearhers.jpeg)
 
-
+O víkendu jsme v rámci hodiny Visual Arts in Japan zašli do **Tokyo National Museum** v **Ueno parku**, který jsme měli jakožto studenti Hosei Univerzity zadarmo. Museli jsme v rámci mid-term projektu si vybrat pár děl a napsat o nich více. Tak přidávám alespoň pár ukázek.
 ![Branching](../photos/muzeum1.jpeg)
 ![Branching](../photos/muzeum2.jpeg)
 ![Branching](../photos/muzeum3.jpeg)
 
 
 
-
-Nejhezčí pas má Austrálie!
+Jednoho večera jsem náhodně začaly s holkama na koleji téma pasů a pak je začaly porovnávat. Například existují 4 barvy pasů, a barva trochu souvisí s historií. Každé pasy mají různě více či méně detailní stránky pro lepení a psaní víz. Nejhezčí pas má stopro Austrálie!
 ![Branching](../photos/pasy.jpg)
 
 
@@ -83,15 +84,42 @@ No a co by to bylo za tajfún bez budíčku ve formě Tísňových varování (k
 ![Branching](../photos/tajfun4.PNG)
 
 
-V neděli 4.6.2023 jsem měla šanci jít na baseballový zápas - domácí Tokijští GIANTS proti FIGHTERS z Hokkaida. 
+V neděli 4.6.2023 jsem měla šanci jít na baseballový zápas - domácí Tokijští GIANTS proti FIGHTERS z Hokkaida. Zápas se konal v **Tokyo Dome** na zastávce **Suidobashi**, takže jsem byla velmi nadšená, že můžu stadión vidět zevnitř. A impozantní rozhodně byl! Jen teda domácí GIANTS, jejichž fanoušci byli ve velké přesile, prohráli s velkým rozdílem...
+![Branching](../photos/results.png)
+
 
 ![Branching](../photos/baseball1.jpeg)
 ![Branching](../photos/baseball2.jpeg)
 ![Branching](../photos/baseball3.jpeg)
+
+Mimochodem dva hráči nás zaujali - první byl hráč z Hosei Univerzity a druhý byl hráč, který byl očividně ve hře poprvé za sezónu, a díky odpalu měl chvíli statistiky na 100% (perfektní).
+
 ![Branching](../photos/baseball4.PNG)
 
-![Branching](../photos/results.png)
 
 Detaily zápasu jsou zde, i když jen v japonštině: [Odkaz.](https://www.giants.jp/game/20230604_8003_1/)
+
+[Zpátky](../)
+
+
+# Japonské divadlo Kabuki, kvetoucí hortenzie a kosatce a tea-house
+
+![Branching](../photos/shrine1.jpeg)
+![Branching](../photos/shrine2.jpeg)
+![Branching](../photos/shrine3.jpeg)
+![Branching](../photos/shrine4.jpeg)
+
+![Branching](../photos/gatcha2.jpeg)
+
+![Branching](../photos/shrine_tsukiji.jpeg)
+
+![Branching](../photos/hondoji1.jpeg)
+![Branching](../photos/hondoji2.jpeg)
+![Branching](../photos/hondoji3.jpeg)
+![Branching](../photos/hondoji4.jpeg)
+![Branching](../photos/hondoji5.jpeg)
+![Branching](../photos/hondoji6.jpeg)
+
+![Branching](../photos/teahouse.jpeg)
 
 [Zpátky](../)
